@@ -1,2 +1,0 @@
-# xssdemo
-xssdemo repository 
